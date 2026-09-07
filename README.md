@@ -14,6 +14,7 @@ Ben Cemal, 9. sınıf öğrencisiyim.
 Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var.
 
 
+
 ## 📊 GitHub İstatistiklerim
 
 [![Streak](https://streak-stats.demolab.com/?user=cemalevli38&theme=dark&hide_border=true)](https://github.com/cemalevli38)
@@ -28,11 +29,11 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var.
 [![1.5]][5]
 [![1.6]][6]
 
-[1.1]: https://raw.githubusercontent.com/devcemalevli38/My_Netlify_SitesApps/main/social-logos/github.png
-[1.2]: https://raw.githubusercontent.com/devcemalevli38/My_Netlify_SitesApps/main/social-logos/facebook.png
-[1.3]: https://raw.githubusercontent.com/devcemalevli38/My_Netlify_SitesApps/main/social-logos/instagram.png
-[1.5]: https://raw.githubusercontent.com/devcemalevli38/My_Netlify_SitesApps/main/social-logos/world-wide-web.png
-[1.6]: https://raw.githubusercontent.com/devcemalevli38/My_Netlify_SitesApps/main/social-logos/user.png
+[1.1]: https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/social-logos/github.png
+[1.2]: https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/social-logos/facebook.png
+[1.3]: https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/social-logos/instagram.png
+[1.5]: https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/social-logos/world-wide-web.png
+[1.6]: https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/social-logos/user.png
 
 [1]: https://github.com/cemalevli38
 [2]: https://www.facebook.com/profile.php?id=100076601840154
