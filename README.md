@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:00d9ff&height=220&section=header&text=Cemal%20Evli&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" />
-</p>
+![Banner](https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/banner.svg)
 
 # 👋 Merhaba, ben Cemal!!
 
@@ -45,6 +43,4 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var.
 
 > "**Küçük adımlar, büyük sistemlerin temelidir.**"
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:00d9ff&height=100&section=footer" />
-</p>
+![Banner](https://raw.githubusercontent.com/cemalevli38/cemalevli38/main/banner2.svg)
