@@ -10,7 +10,7 @@
 
 [![Cemal Evli](https://img.shields.io/badge/Cemal_Evli-F5F5F5?style=for-the-badge&logo=github&logoColor=black)](https://github.com/cemalevli38)
 
-Ben Cemal, 9. sınıf öğrencisiyim.  
+Ben Cemal, 10. sınıf öğrencisiyim.  
 Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var.
 
 
