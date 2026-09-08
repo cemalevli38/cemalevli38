@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&fontColor=FFFFFF&text=Merhaba,%20Ben%20Cemal!&descAlignY=62&animation=fadeIn&fontAlignY=38&fontSize=50&descSize=20&height=280" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Developer;Hobbyist;Tech+Lover" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:00d9ff&height=220&section=header&text=Cemal%20Evli&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 # 👋 Merhaba, ben Cemal!!
@@ -50,5 +46,5 @@ Teknolojiye, yazılıma, yapay zekaya karşı bir ilgim var.
 > "**Küçük adımlar, büyük sistemlerin temelidir.**"
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:00d9ff&height=100&section=footer" />
 </p>
